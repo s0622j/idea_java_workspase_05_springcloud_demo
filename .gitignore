@@ -1,0 +1,5 @@
+# Project exclude paths
+/idea_java_workspase_05_springcloud/feign-api/target/
+/idea_java_workspase_05_springcloud/gateway/target/
+/idea_java_workspase_05_springcloud/order-service/target/
+/idea_java_workspase_05_springcloud/user-service/target/
